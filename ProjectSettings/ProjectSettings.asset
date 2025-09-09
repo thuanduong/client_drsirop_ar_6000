@@ -823,7 +823,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     Android: ENABLE_DEBUG_MODULE;UNITASK_DOTWEEN_SUPPORT
     Standalone: ENABLE_DEBUG_MODULE;UNITASK_DOTWEEN_SUPPORT
-    iPhone: UNITY_XR_ARKIT_LOADER_ENABLED
+    iPhone: UNITY_XR_ARKIT_LOADER_ENABLED;ENABLE_DEBUG_MODULE;UNITASK_DOTWEEN_SUPPORT
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
