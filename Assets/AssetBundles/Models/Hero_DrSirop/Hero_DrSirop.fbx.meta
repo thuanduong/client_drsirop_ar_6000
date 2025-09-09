@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: f03a417e16912444a9a66ea6454f1480
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackBrownMat
+    second: {fileID: 2100000, guid: 7760077dd890c0b449b9f8d4ea963d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMat
+    second: {fileID: 2100000, guid: 86cfeaebdcb81244388464ff76872ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkBlue
+    second: {fileID: 2100000, guid: 1f5eebfcd46c0d544a0b54776ab78627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightBlue
+    second: {fileID: 2100000, guid: 0d78dbf08116f8c4e8cd471709a8d781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth1
+    second: {fileID: 2100000, guid: 085c0d9ae5488784f92bc692da548dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PinkMat
+    second: {fileID: 2100000, guid: d230b58217732824b97219175d48d70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PinkMat1
+    second: {fileID: 2100000, guid: fa202ddd3e79c844a891e0a3b69bfed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PureWhiteMat
+    second: {fileID: 2100000, guid: 215074cda61c89541a57e02aec29fc41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedLightMat
+    second: {fileID: 2100000, guid: fae8f171de44a10478100655835b3f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteMat
+    second: {fileID: 2100000, guid: 6859290dbc12ed64c86f2dd40fa4e82b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteSpecMat
+    second: {fileID: 2100000, guid: 6d8c588ddb4cb584f9326b6059aa9347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowMat
+    second: {fileID: 2100000, guid: efdd46dd1bba90b4a9156bda0967f44b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye.001
+    second: {fileID: 2100000, guid: 9f8e8931674a28f40a5419fdefe1c2c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 4f07f897e7af1444fbfa2d9562b4596a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2100000, guid: 632023520eb4cc140aeac6e6b083a0e1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Hero_DrSirop(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hero_DrSirop
+      parentName: Hero_DrSirop(Clone)
+      position: {x: 0.00000040771482, y: 0.7281727, z: -0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Horn_R
+      parentName: Hero_DrSirop
+      position: {x: 0.13380606, y: 0.61629266, z: 0.033890594}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Horn_L
+      parentName: Hero_DrSirop
+      position: {x: -0.17950727, y: 0.61629266, z: 0.033890594}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mask
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: 0.35194942, z: 0.02465286}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow_R
+      parentName: Hero_DrSirop
+      position: {x: 0.05166972, y: 0.43405467, z: 0.16765939}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyebrow_L
+      parentName: Hero_DrSirop
+      position: {x: -0.03857805, y: 0.43208957, z: 0.16558208}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ear_R
+      parentName: Hero_DrSirop
+      position: {x: 0.12599958, y: 0.4400773, z: 0.027453842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ear_L
+      parentName: Hero_DrSirop
+      position: {x: -0.1260004, y: 0.4400773, z: 0.027453842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye_R
+      parentName: Hero_DrSirop
+      position: {x: 0.057834256, y: 0.3507356, z: 0.14850391}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye_L
+      parentName: Hero_DrSirop
+      position: {x: -0.052710794, y: 0.34927294, z: 0.14860618}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nose
+      parentName: Hero_DrSirop
+      position: {x: -0.00094765186, y: 0.28376496, z: 0.17866328}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_L
+      parentName: Hero_DrSirop
+      position: {x: 0.024539592, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arm_R
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7241727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arm_L
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7241727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Logo
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.6976734, z: 0.029062804}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9339255, y: 0.9339255, z: 0.9339255}
+    - name: Coat
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pant
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_R
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_L
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoe_R
+      parentName: Hero_DrSirop
+      position: {x: -0.0006891513, y: -0.7281727, z: 0.0316481}
+      rotation: {x: 0, y: -0.28777856, z: -0, w: 0.957697}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoe_L
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group1
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040771482, y: -0.7281727, z: 0.025453841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: defaultBrush1Main1
+      parentName: group1
+      position: {x: -0.00074762345, y: 0.8639537, z: 0.003355465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder
+      parentName: group1
+      position: {x: -0.111993775, y: 0.7720587, z: 0.17579903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder10
+      parentName: group1
+      position: {x: 0.073578626, y: 0.74122244, z: 0.17604725}
+      rotation: {x: -0.6998056, y: 0.22035334, z: -0.2560425, w: 0.62941146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth_1
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth_2
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Mouth_3
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Mouth_4
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Mouth_5
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Mouth_6
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Mouth_7
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Mouth_8
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Mouth_9
+      parentName: Hero_DrSirop
+      position: {x: -0.00000040533064, y: 0.22182725, z: 0.17157078}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0, y: 0, z: 0}
+    - name: Coat_joint
+      parentName: Hero_DrSirop(Clone)
+      position: {x: -0.0049719443, y: 0.85829353, z: -0.14468545}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint5
+      parentName: Coat_joint
+      position: {x: 0.084427744, y: 0.012440387, z: 0.002396477}
+      rotation: {x: 0.7053554, y: -0.70535535, z: -0.04973728, w: -0.04973728}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: joint6
+      parentName: joint5
+      position: {x: 0.16277698, y: -0.015768899, z: -0.016676672}
+      rotation: {x: -0.9999863, y: -0.000000029802322, z: -0.0052399375, w: -0.0000000037252903}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: joint7
+      parentName: joint6
+      position: {x: 0.21213426, y: 0.0208903, z: 0.021543538}
+      rotation: {x: 0.9997456, y: -0.000000029768044, z: -0.02255511, w: 0.00000000796785}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: joint8
+      parentName: joint7
+      position: {x: 0.22415891, y: -0.031365, z: -0.021873163}
+      rotation: {x: -0.000000014895404, y: 0.000000014901161, z: 4.1415937e-10, w: -1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: joint1
+      parentName: Coat_joint
+      position: {x: -0.07725647, y: 0.009006155, z: 0.007128333}
+      rotation: {x: 0.049737282, y: -0.049737282, z: 0.70535535, w: 0.7053554}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: joint2
+      parentName: joint1
+      position: {x: -0.16264398, y: 0.015768895, z: 0.003940262}
+      rotation: {x: 0.99998635, y: 0.00000002910383, z: 0.00523993, w: -0.0000000037252903}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: joint3
+      parentName: joint2
+      position: {x: -0.21120173, y: -0.020890553, z: -0.0008946661}
+      rotation: {x: -0.99974567, y: 0.000000042178073, z: 0.022555107, w: 0.000000010741537}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: joint4
+      parentName: joint3
+      position: {x: -0.22415836, y: 0.031365126, z: 0.005867839}
+      rotation: {x: -0.0000000111715535, y: 0.000000007450581, z: 3.1061373e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: RootJoint
+      parentName: Hero_DrSirop(Clone)
+      position: {x: -0, y: 0.64015794, z: -7.323965e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SpineJoint
+      parentName: RootJoint
+      position: {x: -0, y: 0.11920471, z: 0}
+      rotation: {x: -0, y: -0, z: 7e-44, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SpineJoint_1
+      parentName: SpineJoint
+      position: {x: -0.000000036358834, y: 0.112989955, z: -0.0015065867}
+      rotation: {x: -0, y: -0, z: 3e-43, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NeckJoint
+      parentName: SpineJoint_1
+      position: {x: -0.00000002921765, y: 0.03005996, z: -0.0012106802}
+      rotation: {x: 3.3786888e-28, y: -5.279201e-30, z: 1.7298886e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HeadJoint
+      parentName: NeckJoint
+      position: {x: -0.00000007076629, y: 0.21991575, z: -0.0029323148}
+      rotation: {x: -0, y: -0, z: 5.6e-43, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulderJoint
+      parentName: SpineJoint_1
+      position: {x: -0.090105206, y: -0.008278579, z: 0.0015066315}
+      rotation: {x: -0, y: -0, z: -2e-44, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftArmJoint
+      parentName: LeftShoulderJoint
+      position: {x: -0.06866948, y: -0.0040740203, z: 4.684191e-17}
+      rotation: {x: -3.9443045e-29, y: 2.2958874e-37, z: -0.000000005820766, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftForeArmJoint
+      parentName: LeftArmJoint
+      position: {x: -0.18652591, y: -1.4210854e-16, z: 7.64349e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandJoint
+      parentName: LeftForeArmJoint
+      position: {x: -0.156, y: -0.0070944177, z: 3.9752126e-17}
+      rotation: {x: 3.6379788e-10, y: 1.8189891e-10, z: 0.0000000066620487, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: RightShoulderJoint
+      parentName: SpineJoint_1
+      position: {x: 0.090105236, y: -0.0082786, z: 0.0015066315}
+      rotation: {x: -0, y: -0, z: -2e-44, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightArmJoint
+      parentName: RightShoulderJoint
+      position: {x: 0.074177146, y: -0.004074, z: 2.4137914e-18}
+      rotation: {x: 1.83671e-36, y: 3.1554436e-28, z: 0.000000005820766, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightForeArmJoint
+      parentName: RightArmJoint
+      position: {x: 0.18236217, y: -2.3333664e-16, z: 1.399126e-16}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandJoint
+      parentName: RightForeArmJoint
+      position: {x: 0.156, y: -0.006224088, z: 1.390143e-16}
+      rotation: {x: 0.000000005820766, y: -0.0000000025465852, z: -0.000000006866685,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Leg_Right
+      parentName: RootJoint
+      position: {x: 0.06998789, y: -0.024924928, z: -4.6000093e-10}
+      rotation: {x: -0, y: 0.000000016427318, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpperLegJoint
+      parentName: Leg_Right
+      position: {x: -0.020348698, y: -0.076647, z: -5.43879e-10}
+      rotation: {x: -1.3136451e-25, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightLegJoint
+      parentName: RightUpperLegJoint
+      position: {x: 0.0009295, y: -0.230738, z: 8.544558e-15}
+      rotation: {x: 9.118994e-23, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightFootJoint
+      parentName: RightLegJoint
+      position: {x: 0.0010525, y: -0.2612729, z: -2.6790723e-15}
+      rotation: {x: -5.0132204e-11, y: 9.3169454e-33, z: 1.02318154e-10, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: RightFootBaseJoint
+      parentName: RightFootJoint
+      position: {x: 0.0001674, y: -0.041576937, z: 0.08232631}
+      rotation: {x: -0, y: -0, z: 4.67e-43, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_Left
+      parentName: RootJoint
+      position: {x: -0.06998786, y: -0.02492508, z: -4.6000098e-10}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftUpperLegJoint
+      parentName: Leg_Left
+      position: {x: 0.020348702, y: -0.07664688, z: -5.4387544e-10}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLegJoint
+      parentName: LeftUpperLegJoint
+      position: {x: -0.00092949223, y: -0.23073755, z: -4.5044454e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftFootJoint
+      parentName: LeftLegJoint
+      position: {x: -0.001052501, y: -0.2612733, z: 2.7455567e-16}
+      rotation: {x: 3.8490556e-30, y: -0.000000023283064, z: 1.6555656e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftFootBaseJoint
+      parentName: LeftFootJoint
+      position: {x: -0.00016749025, y: -0.04157695, z: 0.08232628}
+      rotation: {x: -0, y: -0, z: 8.961781e-38, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
