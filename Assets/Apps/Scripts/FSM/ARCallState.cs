@@ -137,15 +137,21 @@ public class ARCallState : InjectedBState
             if (go != null)
             {
                 var mm = go.GetComponent<InstantPlacementSpawner>();
-                await mm.Spawn();
+                await mm.Spawn(cts.Token);
             }
+            else
+                return;
+
             await arScan.HideScan(cts.Token);
 
             await UniTask.Delay(100, cancellationToken: cts.Token);
 
+            var characterGo = GameObject.FindAnyObjectByType<CharacterBasicComponent>();
+            if (characterGo == null) return;
+
             await CallService.Create(cts.Token);
 
-            var characterGo = GameObject.FindAnyObjectByType<CharacterBasicComponent>();
+            
             if (characterGo != null)
             {
                 character = characterGo.GetComponent<CharacterBasicComponent>();

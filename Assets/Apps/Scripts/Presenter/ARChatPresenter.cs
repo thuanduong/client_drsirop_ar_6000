@@ -48,7 +48,7 @@ public class ARChatPresenter : IDisposable
             var lm = UserData.Instance.GetOne<UserProfileModel>();
             
             await UniTask.Delay(100, cancellationToken: cancellationToken);
-
+            
             await chatVoice.ConnectWebSocket(CallService.createWSPath(lm.UserId), cancellationToken);
             
         }

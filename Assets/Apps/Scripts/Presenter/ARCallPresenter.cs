@@ -39,6 +39,7 @@ public class ARCallPresenter : IDisposable
                 btnEndCall = new ButtonEntity(Ask_OnEndCall),
             };
             uiAsk.SetEntity(entity);
+            await UniTask.Delay(100);
             await uiAsk.In().AttachExternalCancellation(cancellationToken);
         }
         catch

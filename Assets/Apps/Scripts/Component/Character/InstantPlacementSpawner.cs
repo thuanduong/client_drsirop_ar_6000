@@ -44,16 +44,20 @@ public class InstantPlacementSpawner : MonoBehaviour
     }
 
 
-    public async UniTask Spawn()
+    public async UniTask Spawn(CancellationToken cancellationToken = default)
     {
-        try
+        using (var linkedCts = CancellationTokenSource.CreateLinkedTokenSource(cts.Token, cancellationToken))
         {
-            while (spawnedAnchorObject == null)
+            try
             {
-                await TryToSpawn(cts.Token);
+                while (spawnedAnchorObject == null)
+                {
+                    linkedCts.Token.ThrowIfCancellationRequested();
+                    await TryToSpawn(linkedCts.Token);
+                }
             }
+            catch { }
         }
-        catch { }
 
     }
 

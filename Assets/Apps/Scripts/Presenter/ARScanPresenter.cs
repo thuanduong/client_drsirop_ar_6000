@@ -35,7 +35,7 @@ public class ARScanPresenter : IDisposable
             var entity = new UIARScan.Entity()
             {
                 scanText = "Téléphone en mouvement",
-                btnBack = new ButtonEntity(Scan_OnBtnBack),
+                btnBack = new ButtonEntity(Scan_OnBtnBack, isDisable: true),
                 btnSpawn = new ButtonEntity(OnSpawn),
             };
             uiScan.SetEntity(entity);

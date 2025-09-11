@@ -36,12 +36,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 085c0d9ae5488784f92bc692da548dfd
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/Mouth1.mat
+    m_Address: Models/Hero_DrSirop/Materials/Mouth1
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0896ccaa144b7974bacacbc71206ef9e
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/Magic.png
+    m_Address: Sprite/UI/Icon/Magic
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -56,12 +56,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0d78dbf08116f8c4e8cd471709a8d781
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/LightBlue.mat
+    m_Address: Models/Hero_DrSirop/Materials/LightBlue
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0f85dc98e58b66f49a7cd8e649df6afd
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/Vector.png
+    m_Address: Sprite/UI/Icon/Vector
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -71,12 +71,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 14acc83e03f13c448a967ed23dc987de
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/recording.png
+    m_Address: Sprite/UI/Message/recording
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 15dce3ccf0f3c0f4c8596c795f48ddcd
-    m_Address: Assets/AssetBundles/Fonts/Nunito/Nunito-Bold SDF.asset
+    m_Address: Fonts/Nunito/Nunito-Bold SDF
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -91,7 +91,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1cf5df4449431cc438f484bd661a8d8e
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/mic_off.png
+    m_Address: Sprite/UI/Icon/mic_off
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -106,12 +106,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1f5eebfcd46c0d544a0b54776ab78627
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/DarkBlue.mat
+    m_Address: Models/Hero_DrSirop/Materials/DarkBlue
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 215074cda61c89541a57e02aec29fc41
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/PureWhiteMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/PureWhiteMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -121,12 +121,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 23902dada6c3bd844947a4cf589f3245
-    m_Address: Assets/AssetBundles/Sprite/UI/Avatar/Avatar_User.png
+    m_Address: Sprite/UI/Avatar/Avatar_User
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2716dc44e54539a4d9646e0415a5b853
-    m_Address: Assets/AssetBundles/UI/UIRequestChat.prefab
+    m_Address: UI/UIRequestCallBubble
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -176,7 +176,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3fc11fbb047ab8c44890f29f299975e5
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/arrow-left.png
+    m_Address: Sprite/UI/Icon/arrow-left
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -201,12 +201,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4b572a60b6bb83e45a3ae7639ef3d1f8
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Background_2.png
+    m_Address: Sprite/UI/Message/Background_2
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4f07f897e7af1444fbfa2d9562b4596a
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/lambert3.mat
+    m_Address: Models/Hero_DrSirop/Materials/lambert3
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -216,7 +216,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4f1ff108408c4dc4a9221c922d600965
-    m_Address: Assets/AssetBundles/Sprite/UI/Avatar/Avatar_Sirop.png
+    m_Address: Sprite/UI/Avatar/Avatar_Sirop
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -266,7 +266,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 60c9b882bae669444af1ca22e93ad63b
-    m_Address: Assets/AssetBundles/Animators/DrSirop/Dr Animator.controller
+    m_Address: Animators/DrSirop/Dr Animator
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -286,7 +286,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 632023520eb4cc140aeac6e6b083a0e1
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/orange.mat
+    m_Address: Models/Hero_DrSirop/Materials/orange
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -296,12 +296,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 65b9c4bd7c6abd949b463218cfd92e95
-    m_Address: Assets/AssetBundles/Animators/UI/IconRecording/Recording.anim
+    m_Address: Animators/UI/IconRecording/Recording
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6859290dbc12ed64c86f2dd40fa4e82b
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/WhiteMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/WhiteMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6d8c588ddb4cb584f9326b6059aa9347
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/WhiteSpecMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/WhiteSpecMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -346,12 +346,17 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7760077dd890c0b449b9f8d4ea963d8f
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/BlackBrownMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/BlackBrownMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7860023de6fba6d49b0643d86b037db2
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/InputField.png
+    m_Address: Sprite/UI/Message/InputField
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78773fb6036815843a72ab8cb6e76ebf
+    m_Address: Object/AR Default Plane
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -381,27 +386,27 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82a20e3e9230d9e45968c2d9b389006b
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/video_switch.png
+    m_Address: Sprite/UI/Icon/video_switch
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 86cfeaebdcb81244388464ff76872ccc
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/BlackMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/BlackMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 86f5c336d6b8de54585d7509075c1d17
-    m_Address: Assets/AssetBundles/Animations/UI/UIARScan/UIARScan_ScanSurface.anim
+    m_Address: Animations/UI/UIARScan/UIARScan_ScanSurface
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 87dabde0c418fcd48b8b533067cddf77
-    m_Address: Assets/AssetBundles/Animations/Male/Waving.fbx
+    m_Address: Animations/Male/Waving
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 898a55747696cd345b9928e33220916d
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Message_ri.png
+    m_Address: Sprite/UI/Message/Message_ri
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -426,17 +431,17 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 90f06fc90761adf418ead4c504777fe1
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/DrSrirop.fbx
+    m_Address: Models/Hero_DrSirop/DrSrirop
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 995d254215857bc4dac21599c81b8730
-    m_Address: Assets/AssetBundles/UI/UICharacterMessageBubble.prefab
+    m_Address: UI/UICharacterMessageBubble
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9c25b966cd7d30642836967f7a3bc96d
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Pills.png
+    m_Address: Sprite/UI/Message/Pills
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -446,7 +451,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9f8e8931674a28f40a5419fdefe1c2c3
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/eye.001.mat
+    m_Address: Models/Hero_DrSirop/Materials/eye.001
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -466,7 +471,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aa6603c7486454f499604aee097fbc45
-    m_Address: Assets/AssetBundles/Sprite/UI/Button/Button.png
+    m_Address: Sprite/UI/Button/Button
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -476,12 +481,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ae78e423e79c6b249a04bec321040a8d
-    m_Address: Assets/AssetBundles/UI/MessageCanvas.prefab
+    m_Address: UI/MessageCanvas
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b144d54a529a4664b8c0f2069e59f498
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Texture/Cloth_Text.png
+    m_Address: Models/Hero_DrSirop/Texture/Cloth_Text
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -496,7 +501,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bbd3a36e868f5134ab491f5f470ee385
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Call.png
+    m_Address: Sprite/UI/Message/Call
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -511,12 +516,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c65d746e2ed917f40b16d0944354cdfe
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/menu.png
+    m_Address: Sprite/UI/Icon/menu
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cabe0272fd14c3148b3d263fb2ddab0d
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Message_ce.png
+    m_Address: Sprite/UI/Message/Message_ce
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -536,12 +541,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d203b219319ae814fab3cc7c3fed6fcf
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Texture/Mouth.png
+    m_Address: Models/Hero_DrSirop/Texture/Mouth
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d230b58217732824b97219175d48d70b
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/PinkMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/PinkMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -566,12 +571,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dbdf9e41f270bf8479320ccd49dbaff9
-    m_Address: Assets/AssetBundles/Animations/Male/Waving.mask
+    m_Address: Animations/Male/Waving
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: dcd7edb0129a5d84ca49728e3e7a1726
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Message_le.png
+    m_Address: Sprite/UI/Message/Message_le
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -586,12 +591,12 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e18a18baa6798de4a85748a933333f59
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/keyboard.png
+    m_Address: Sprite/UI/Icon/keyboard
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e456fa409cd6d0e4596ce31f465be14f
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Call Button.png
+    m_Address: Sprite/UI/Message/Call Button
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -601,7 +606,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e8333bcd5d530d64c94b18f6cc05eb68
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/video.png
+    m_Address: Sprite/UI/Icon/video
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -611,17 +616,17 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ef4edb5780699b8459c00e5f4cf22285
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/microphone-2.png
+    m_Address: Sprite/UI/Icon/microphone-2
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: efdd46dd1bba90b4a9156bda0967f44b
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/YellowMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/YellowMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f03a417e16912444a9a66ea6454f1480
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Hero_DrSirop.fbx
+    m_Address: Models/Hero_DrSirop/Hero_DrSirop
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -646,7 +651,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f62df875939831f4c9e5c4db686e053b
-    m_Address: Assets/AssetBundles/Animations/UI/UIARScan/UIARScanAnimator.controller
+    m_Address: Animations/UI/UIARScan/UIARScanAnimator
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -656,27 +661,27 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f91b06adf78fa9545b45cf99ea7d99ee
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Background.png
+    m_Address: Sprite/UI/Message/Background
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f9a14ef55a5812b419195aade669747c
-    m_Address: Assets/AssetBundles/Animators/UI/IconRecording/Icon.controller
+    m_Address: Animators/UI/IconRecording/Icon
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fa202ddd3e79c844a891e0a3b69bfed9
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/PinkMat1.mat
+    m_Address: Models/Hero_DrSirop/Materials/PinkMat1
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fae8f171de44a10478100655835b3f2d
-    m_Address: Assets/AssetBundles/Models/Hero_DrSirop/Materials/RedLightMat.mat
+    m_Address: Models/Hero_DrSirop/Materials/RedLightMat
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: faff3f0074c55104b93600ed9e327877
-    m_Address: Assets/AssetBundles/Sprite/UI/Message/Ellipse 6144.png
+    m_Address: Sprite/UI/Message/Ellipse 6144
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -686,7 +691,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fdcba117ae77e974c8bf0f319cbf66d6
-    m_Address: Assets/AssetBundles/Sprite/UI/Icon/add.png
+    m_Address: Sprite/UI/Icon/add
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

@@ -265,10 +265,22 @@ public class ChatVoiceComponent : MonoBehaviour
             {
                 Debug.Log("WS Closed");
             };
-
+            
             ws.Connect();
 
-            await tcs.Task;
+            var timeoutTask = UniTask.Delay(TimeSpan.FromSeconds(30), cancellationToken: token);
+
+            var result = await UniTask.WhenAny(tcs.Task, timeoutTask);
+
+            if (result == 0)
+            {
+                
+            }
+            else
+            {
+                ws.Close();
+                IsConnected = false;
+            }
         }
         catch (Exception ex)
         {
